@@ -1,2 +1,2 @@
-git learn
-tang
+git is good 
+git good
